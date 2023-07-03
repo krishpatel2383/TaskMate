@@ -1,0 +1,12 @@
+.landing-page{
+  padding-top: 70px;
+}
+.home-container {
+  height: 100vh;
+  overflow-wrap: normal;
+  padding-top: 70px;
+}
+.content-container {
+  height: calc(100vh - 70px);
+  overflow-wrap: normal;
+}

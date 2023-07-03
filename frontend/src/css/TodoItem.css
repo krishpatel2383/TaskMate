@@ -1,0 +1,10 @@
+.todo-item {
+  background-color: black;
+  border-color: rgba(5, 171, 196, 0.4);
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.todo-item:hover {
+  background-color: rgb(37, 36, 36);
+  box-shadow: 0 0 10px rgba(5, 171, 196, 0.7);
+}

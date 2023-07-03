@@ -1,0 +1,19 @@
+.creator-text {
+  font-size: 3rem;
+}
+.india-1 {
+  color: #ff671f;
+}
+.india-3 {
+  color: #046a38;
+}
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.icon {
+  width: 50%;
+  height: auto;
+  margin-right: 20px;
+}

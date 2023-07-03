@@ -1,0 +1,14 @@
+* {
+  color: white;
+}
+.login {
+  background-color: #fc8655;
+  color: white;
+}
+.signup {
+  background-color: #05abc4;
+  color: white;
+}
+.navbar {
+  background-color: black;
+}

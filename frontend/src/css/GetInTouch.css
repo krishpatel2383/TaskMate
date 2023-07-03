@@ -1,0 +1,19 @@
+img {
+  height: auto;
+}
+.outline-input {
+  background-color: transparent;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  padding: 0.375rem 0.75rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.outline-input.form-control{
+    color: white;
+}
+.outline-input:focus {
+  border-color: #80bdff;
+  box-shadow: none;
+  outline: none;
+  background-color: transparent;
+}

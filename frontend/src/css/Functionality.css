@@ -1,0 +1,10 @@
+.head-text {
+  font-size: 30px;
+}
+html body ul {
+  list-style-type: circle;
+}
+ul li {
+  font-size: 20px;
+  font-weight: normal;
+}
