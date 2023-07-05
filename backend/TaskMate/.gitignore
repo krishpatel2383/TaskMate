@@ -41,5 +41,4 @@ build/
 /.springBeans
 /.sts4-cache/
 
-application.properties
-
+.env
