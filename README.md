@@ -11,3 +11,7 @@ TaskMate is a simple task management application that allows users to create, ma
 - Backend: Spring Boot, JPA/Hibernate
 - Frontend: React, React Router, Axios
 - Database: MySQL
+
+## Click on the following link to view the figma design file:
+>
+> [View Figma Design](https://www.figma.com/file/bJTE0FPmw2CqysIZ8W92bX/TaskMate?type=design&node-id=0%3A1&mode=design&t=qHNKzosxOqsIhXtN-1)
